@@ -25,13 +25,16 @@ It contains small simulators in **Python** that show how Artificial Intelligence
 ## Example Outputs
 
 Confusion Matrix (Ticket Classifier)  
-![Confusion Matrix](examples/confusion_matrix.png)
+<img width="640" height="480" alt="Confusion Matrix" src="https://github.com/user-attachments/assets/2fb00eb4-cb3b-4dd1-8cd0-600376d9c287" />
+
 
 ITSM Evolution Plot  
-![ITSM Evolution](examples/itsm_evolution.png)
+<img width="600" height="400" alt="ITSM Evolution" src="https://github.com/user-attachments/assets/9b5f4755-5069-45d3-81b2-48de5079813a" />
+
 
 Alert Correlation (Automation vs AI Layer)  
-![Alert Correlation](examples/alert_correlation.png)
+<img width="600" height="400" alt="Alert Correlation" src="https://github.com/user-attachments/assets/043c765e-2320-4f50-9e1c-1b5b6768b68c" />
+
 
 ---
 
